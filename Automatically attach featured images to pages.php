@@ -1,4 +1,4 @@
-/** Start
+/** Start test
  * Automatically attach featured images to pages only
  * so they don't appear as "unattached" in the media library.
  * Checks and reattaches on both page creation and updates.
